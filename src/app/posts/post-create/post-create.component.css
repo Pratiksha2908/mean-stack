@@ -1,0 +1,12 @@
+
+p{
+  margin-left: 9%;
+  color: rgb(141, 12, 72);
+}
+
+mat-form-field,
+textarea {
+  width : 100%;
+}
+
+
